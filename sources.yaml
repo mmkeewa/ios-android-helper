@@ -1,0 +1,33 @@
+# Official + curated sources for the ios-android knowledge base.
+# The /api/ios-android/refresh cron hashes each URL weekly and flags drift.
+
+official:
+  ios:
+    root: https://developer.apple.com/design/human-interface-guidelines/
+    pages:
+      - https://developer.apple.com/design/human-interface-guidelines/navigation-bars
+      - https://developer.apple.com/design/human-interface-guidelines/tab-bars
+      - https://developer.apple.com/design/human-interface-guidelines/action-sheets
+      - https://developer.apple.com/design/human-interface-guidelines/alerts
+      - https://developer.apple.com/design/human-interface-guidelines/segmented-controls
+      - https://developer.apple.com/design/human-interface-guidelines/buttons
+      - https://developer.apple.com/design/human-interface-guidelines/sheets
+      - https://developer.apple.com/design/human-interface-guidelines/pickers
+      - https://developer.apple.com/design/human-interface-guidelines/typography
+      - https://developer.apple.com/design/human-interface-guidelines/sf-symbols
+  android:
+    root: https://m3.material.io/
+    pages:
+      - https://m3.material.io/components/top-app-bar/overview
+      - https://m3.material.io/components/navigation-bar/overview
+      - https://m3.material.io/components/bottom-sheets/overview
+      - https://m3.material.io/components/dialogs/overview
+      - https://m3.material.io/components/segmented-buttons/overview
+      - https://m3.material.io/components/buttons/overview
+      - https://m3.material.io/components/menus/overview
+      - https://m3.material.io/styles/typography/overview
+      - https://m3.material.io/styles/icons/overview
+
+curated:
+  - https://habr.com/ru/companies/redmadrobot/articles/491674/
+  - https://vc.ru/design/871512-ios-i-android-chto-uchityvat-v-dizaine-analiz-populyarnyh-nativnyh-prilozhenii
