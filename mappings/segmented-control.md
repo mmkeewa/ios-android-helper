@@ -28,7 +28,7 @@ tags: [tabs, toggle, input]
 ## Когда что выбирать
 - Переключение представления (List/Grid, Day/Week/Month) — обе системы
 - Фильтры — на Android лучше Filter Chips, не Segmented Button
-- Табы навигации — это другой компонент (Tab Bar / Tabs), не сегментированный контрол
+- Табы навигации — это другой компонент (Tab Bar / Tabs), не Segment Control
 
 ## Частые ошибки кросс-платформенного дизайна
 - Использовать Segmented Control как табы — на iOS табы это TabView, на Android — Tabs
